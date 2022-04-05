@@ -1,4 +1,4 @@
-module go-embed-migrate-driver
+module github.com/mshapi/go-embed-migrate-driver
 
 go 1.16
 
